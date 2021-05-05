@@ -6,8 +6,6 @@ Within this practical, you will use Mendelian randomization (MR) to investigate 
 
 ## Scripts and datasets
 
-This practical requires three files:
-
 | File | Description |
 |------|-------------|
 | 1smr.do | Stata script for performing analysis |
